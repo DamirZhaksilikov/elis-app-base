@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/elis-base-app/static/css/main.073c9b0a.css",
-    "main.js": "/elis-base-app/static/js/main.71b1811b.js",
-    "static/js/377.e4d1a5eb.chunk.js": "/elis-base-app/static/js/377.e4d1a5eb.chunk.js",
-    "service-worker.js": "/elis-base-app/service-worker.js",
-    "index.html": "/elis-base-app/index.html",
-    "main.073c9b0a.css.map": "/elis-base-app/static/css/main.073c9b0a.css.map",
-    "main.71b1811b.js.map": "/elis-base-app/static/js/main.71b1811b.js.map",
-    "377.e4d1a5eb.chunk.js.map": "/elis-base-app/static/js/377.e4d1a5eb.chunk.js.map"
+    "main.css": "/elis-app-base/static/css/main.073c9b0a.css",
+    "main.js": "/elis-app-base/static/js/main.2d00cab0.js",
+    "static/js/377.e4d1a5eb.chunk.js": "/elis-app-base/static/js/377.e4d1a5eb.chunk.js",
+    "service-worker.js": "/elis-app-base/service-worker.js",
+    "index.html": "/elis-app-base/index.html",
+    "main.073c9b0a.css.map": "/elis-app-base/static/css/main.073c9b0a.css.map",
+    "main.2d00cab0.js.map": "/elis-app-base/static/js/main.2d00cab0.js.map",
+    "377.e4d1a5eb.chunk.js.map": "/elis-app-base/static/js/377.e4d1a5eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.71b1811b.js"
+    "static/js/main.2d00cab0.js"
   ]
 }
